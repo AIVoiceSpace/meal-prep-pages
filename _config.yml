@@ -1,0 +1,121 @@
+# Site Settings
+locale: "en-US"
+title: "Meal Prep Sunday"
+title_separator: "|"
+subtitle: "Automating meal prep wisdom from Reddit"
+name: "Meal Prep Sunday"
+description: "High-quality meal prep guides, recipes, and gear reviews from the r/MealPrepSunday community"
+url: "https://mealprepsunday.com"
+baseurl: ""
+repository: "AIVoiceSpace/meal-prep-pages"
+
+# Theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
+# Social Sharing
+twitter:
+  username: ""
+  card: "summary_large_image"
+
+og_image: /assets/images/og-image.png
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+exclude:
+  - "*.gemspec"
+  - "*.gem"
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .sass-cache
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+keep_files:
+  - .git
+  - .gitignore
+
+# Production
+production: false
+show_drafts: false
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Collections (for future use)
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # Posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      toc: false
+  # Pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# Markdown Processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+timezone: America/Denver
+
+# Analytics (to be configured)
+analytics:
+  provider: false
+
+# Comments (to be configured)
+comments:
+  provider: false
