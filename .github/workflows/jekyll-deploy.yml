@@ -60,18 +60,15 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const comment = `## ✅ Build Successful
-
-Ready for review! Posts have been validated and are ready for preview.
-
-**Verification Checklist:**
-- [x] Jekyll build passed
-- [x] All frontmatter valid
-- [ ] Review rendered posts
-- [ ] Verify placeholder links
-- [ ] Approve to publish
-
-**Next:** Review the changes above, then merge to publish live.`;
+            const comment = '## ✅ Build Successful\n\n' +
+              'Ready for review! Posts have been validated and are ready for preview.\n\n' +
+              '**Verification Checklist:**\n' +
+              '- [x] Jekyll build passed\n' +
+              '- [x] All frontmatter valid\n' +
+              '- [ ] Review rendered posts\n' +
+              '- [ ] Verify placeholder links\n' +
+              '- [ ] Approve to publish\n\n' +
+              '**Next:** Review the changes above, then merge to publish live.';
 
             github.rest.issues.createComment({
               issue_number: context.issue.number,
