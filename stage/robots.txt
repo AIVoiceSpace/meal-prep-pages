@@ -1,1 +1,1 @@
-Sitemap: https://mealprep.opportunityenterprises.net/sitemap.xml
+Sitemap: https://mealprep.opportunityenterprises.net/stage/sitemap.xml
