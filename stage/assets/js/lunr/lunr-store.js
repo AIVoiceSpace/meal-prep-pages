@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Vegetarian Meal Prep Weight Loss",
+        "excerpt":"--- layout: single title: \"Vegetarian Meal Prep for Weight Loss: Satisfying and Calorie-Conscious Recipes\" slug: vegetarian-meal-prep-weight-loss date: 2025-12-04 categories: - Recipes tags: - vegetarian - weight-loss - low-calorie - plant-based - healthy description: \"Discover high-nutrition, low-calorie vegetarian meal prep recipes for weight loss. Enjoy satisfying dishes while achieving your health...","categories": [],
+        "tags": [],
+        "url": "/stage/2025/12/04/vegetarian-meal-prep-weight-loss/",
+        "teaser": null
+      },{
         "title": "Instant Pot Meal Prep 101: Pressure Cooking for Beginners",
         "excerpt":"Introduction This is a mock blog post generated for testing purposes. Community members are asking about getting started with Instant Pots for meal prep. Topics include safety concerns, learning the pressure cooking workflow, and best dishes for batch cooking. Main Content This section contains the main body of the blog...","categories": ["Guides"],
         "tags": ["instant-pot","pressure-cooking","batch-cooking","beginner-friendly"],
