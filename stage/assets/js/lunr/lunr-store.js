@@ -17,8 +17,8 @@ var store = [{
         "url": "/stage/2025/12/03/meal-prep-basics-guide/",
         "teaser": null
       },{
-        "title": "Sauces & Seasonings: The Ultimate Guide for Flavorful Meal Prep",
-        "excerpt":"Introduction Meal prepping is a fantastic way to plan ahead and eat healthily. However, one common concern is that prepped meals can sometimes be bland or repetitive. This is where sauces and seasonings come in! They can dramatically transform your dishes, keeping your taste buds excited even on day four...","categories": ["Guides"],
+        "title": "Sauces & Seasonings: The Secret to Flavorful Meal Prep",
+        "excerpt":"Introduction We’ve all been there: you’ve meal prepped for the week, but by Wednesday, you’re tired of the same old chicken and veggies. The solution? Sauces and seasonings. They can transform your staple foods into a variety of delicious meals, keeping your taste buds excited and your meal prep game...","categories": ["Guides"],
         "tags": ["dressing","marinade","meal-prep","sauce","sauces"],
         "url": "/stage/2025/12/03/sauces-seasonings-guide/",
         "teaser": null
