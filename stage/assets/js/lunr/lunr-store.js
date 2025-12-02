@@ -41,27 +41,27 @@ var store = [{
         "url": "/stage/2025/12/05/keto-meal-prep-low-carb/",
         "teaser": null
       },{
-        "title": "Instant Pot Meal Prep 101",
-        "excerpt":"--- layout: single title: \"Instant Pot Meal Prep 101: Pressure Cooking for Beginners\" slug: instant-pot-meal-prep-101 date: 2025-12-08 categories: - Guides tags: - instant-pot - pressure-cooking - batch-cooking - beginner-friendly description: \"A comprehensive guide to using an Instant Pot for meal prep, from safety tips to batch cooking recipes for beginners.\"...","categories": [],
-        "tags": [],
+        "title": "Instant Pot Meal Prep 101: Pressure Cooking for Beginners",
+        "excerpt":"Introduction Are you new to the world of Instant Pot and pressure cooking? Perhaps you’ve just bought an Instant Pot but are intimidated by the pressure cooking process. This guide is here to help you ease into Instant Pot meal prep, a game-changer in the kitchen that takes batch cooking...","categories": ["Guides"],
+        "tags": ["instant-pot","pressure-cooking","batch-cooking","beginner-friendly"],
         "url": "/stage/2025/12/08/instant-pot-meal-prep-101/",
         "teaser": null
       },{
-        "title": "Thai Chickpea Curry Meal Prep",
-        "excerpt":"--- layout: single title: \"Quick Thai Chickpea Curry: Your Go-To Plant-Based Meal Prep Recipe\" slug: thai-chickpea-curry-meal-prep date: 2025-12-10 categories: - Recipes tags: - vegetarian - curry - one-pot - plant-based - cost-effective description: \"Step into the world of meal prep with this easy, delicious, and cost-effective Quick Thai Chickpea Curry...","categories": [],
-        "tags": [],
+        "title": "Quick Thai Chickpea Curry: A Flavorful Plant-Based Meal Prep Recipe",
+        "excerpt":"Recipe Overview Looking for a tasty, nutritious, and budget-friendly meal prep option? Well, you’re in the right place. This Quick Thai Chickpea Curry is a one-pot wonder that’s as easy to prepare as it is delicious. Perfect for vegetarians or those looking to incorporate more plant-based meals into their diet,...","categories": ["Recipes"],
+        "tags": ["vegetarian","curry","one-pot","plant-based","cost-effective"],
         "url": "/stage/2025/12/10/thai-chickpea-curry-meal-prep/",
         "teaser": null
       },{
-        "title": "Best Meal Prep Containers Guide",
-        "excerpt":"--- layout: single title: \"The Best Meal Prep Containers: Glass vs Plastic Breakdown\" slug: best-meal-prep-containers-guide date: 2025-12-12 categories: - Gear tags: - containers - storage - equipment - budget-friendly description: \"An in-depth comparison of glass and plastic meal prep containers based on durability, BPA concerns, ease of cleaning, stackability, and...","categories": [],
-        "tags": [],
+        "title": "The Ultimate Guide to Meal Prep Containers: Glass vs Plastic Showdown",
+        "excerpt":"Introduction: Why This Container Choice Matters Choosing the right containers can make all the difference in your meal prep routine. The right choice can mean the difference between a neatly stacked fridge and a chaotic mess of mismatched lids and containers. Not only can the right containers help you stay...","categories": ["Gear"],
+        "tags": ["containers","storage","equipment","budget-friendly"],
         "url": "/stage/2025/12/12/best-meal-prep-containers-guide/",
         "teaser": null
       },{
-        "title": "Breakfast Meal Prep Week",
-        "excerpt":"--- layout: single title: \"Master Your Mornings: Easy Breakfast Meal Prep for the Week\" slug: breakfast-meal-prep-week date: 2025-12-13 categories: - Recipes tags: - breakfast - quick-meals - egg-recipes - no-cook description: \"Master your morning routine with a week-long breakfast meal prep. Featuring egg muffins, overnight oats, and smoothie packs.\" excerpt:...","categories": [],
-        "tags": [],
+        "title": "Breakfast Prep for the Week: Egg Muffins, Oats, and Smoothie Packs",
+        "excerpt":"Recipe Overview Does your morning routine often involve skipping breakfast or grabbing something unhealthy on the go? We’ve got your solution right here! These three breakfast meal prep strategies are all about making your mornings less stressful, and more delicious and nutritious. These recipes are perfect for a week’s worth...","categories": ["Recipes"],
+        "tags": ["breakfast","quick-meals","egg-recipes","no-cook"],
         "url": "/stage/2025/12/13/breakfast-meal-prep-week/",
         "teaser": null
       }]
