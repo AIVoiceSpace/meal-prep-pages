@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Keto Meal Prep for a Low-Carb Lifestyle: Fat-Burning, Flavor-Packed Recipes",
+        "excerpt":"Recipe Overview Embarking on a ketogenic lifestyle doesn’t mean compromising on flavor or variety. These low-carb, high-fat recipes are designed to keep you in ketosis, while providing ample nutrition and taste. The beauty of this type of meal prep is that it’s particularly cost-effective, as many keto ingredients like oils,...","categories": ["Recipes"],
+        "tags": ["keto","low-carb","high-fat","macros","fat-burning"],
+        "url": "/stage/2025/12/05/keto-meal-prep-low-carb/",
+        "teaser": null
+      },{
         "title": "Instant Pot Meal Prep 101: Pressure Cooking for Beginners",
         "excerpt":"Introduction This is a mock blog post generated for testing purposes. Community members are asking about getting started with Instant Pots for meal prep. Topics include safety concerns, learning the pressure cooking workflow, and best dishes for batch cooking. Main Content This section contains the main body of the blog...","categories": ["Guides"],
         "tags": ["instant-pot","pressure-cooking","batch-cooking","beginner-friendly"],
