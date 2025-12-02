@@ -11,8 +11,8 @@ var store = [{
         "url": "/stage/2025/12/03/diets-guide/",
         "teaser": null
       },{
-        "title": "Meal Prep Basics Guide: Mastering Your Kitchen One Meal at a Time",
-        "excerpt":"Introduction We’ve all been there - rushed mornings, skipped lunches, and take-out dinners. The hustle and bustle of daily life can make it hard to prepare and enjoy wholesome meals. That’s where meal prep comes in. It’s not just a trend, but a lifestyle change that can help you save...","categories": ["Guides"],
+        "title": "Meal Prep Basics: Your Guide to Mastering the Art of Meal Preparation",
+        "excerpt":"Introduction Once upon a time, we all faced the dilemma of what to eat after a long, tiring day. Cooking seems like a chore, and ordering takeout isn’t always the healthiest (or cheapest) option. That’s where meal prep comes in. Not only does it save you time and money, but...","categories": ["Guides"],
         "tags": ["food-prep","meal-planning","meal-prep"],
         "url": "/stage/2025/12/03/meal-prep-basics-guide/",
         "teaser": null
