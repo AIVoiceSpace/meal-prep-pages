@@ -13,7 +13,10 @@ tags:
   - no-cook
 description: "Community members share their favorite no-cook and minimal-cook breakfast meal prep strategies. Popular methods include ..."
 excerpt: "Community members share their favorite no-cook and minimal-cook breakfast meal p..."
+image: /assets/images/posts/breakfast-prep.jpg
 ---
+
+![Breakfast Meal Prep](/assets/images/posts/breakfast-prep.jpg){: .img-responsive}
 
 ## Introduction
 

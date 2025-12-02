@@ -1,0 +1,180 @@
+/* Meal Prep Sunday - Custom Styling */
+
+:root {
+  --accent-color: #e57373;
+  --accent-dark: #d32f2f;
+  --text-dark: #2c3e50;
+  --bg-light: #f8f9fa;
+}
+
+/* Header & Navigation */
+.masthead {
+  background-color: #1a1a1a;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.page__hero--overlay .page__title {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Buttons */
+.btn--primary {
+  background-color: var(--accent-color) !important;
+  color: white !important;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn--primary:hover {
+  background-color: var(--accent-dark) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(229, 115, 115, 0.4);
+}
+
+.btn--secondary {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  transition: all 0.3s ease;
+}
+
+.btn--secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+/* Content Sections */
+.page__content {
+  line-height: 1.8;
+}
+
+/* Lists */
+.page__content ul li {
+  margin-bottom: 0.8rem;
+}
+
+.page__content ul li strong {
+  color: var(--accent-color);
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-dark);
+  text-decoration: underline;
+}
+
+/* Blog Post Cards (when using archive or list layout) */
+.archive__item-title {
+  color: var(--text-dark);
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.archive__item-title a {
+  color: var(--text-dark);
+}
+
+.archive__item-title a:hover {
+  color: var(--accent-color);
+}
+
+.archive__item-excerpt {
+  color: #666;
+  line-height: 1.6;
+}
+
+.archive__item {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+}
+
+.archive__item:last-child {
+  border-bottom: none;
+}
+
+/* Featured Image Styling */
+.page__hero-image {
+  object-fit: cover;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Post Header/Featured Image */
+.post__header-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 600px) {
+  .post__header-image {
+    height: 250px;
+  }
+}
+
+/* Category/Tag Badges */
+.post__taxonomy-category,
+.page__taxonomy-category {
+  display: inline-block;
+  background-color: var(--bg-light);
+  color: var(--accent-color);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid var(--accent-color);
+  transition: all 0.2s ease;
+}
+
+.post__taxonomy-category:hover,
+.page__taxonomy-category:hover {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+/* Accent highlights */
+strong, b {
+  color: var(--text-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-dark);
+}
+
+h2::before {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 3px;
+  background-color: var(--accent-color);
+  margin-bottom: 0.5rem;
+}
+
+/* Footer */
+.page__footer {
+  border-top: 2px solid var(--accent-color);
+  margin-top: 3rem;
+  padding-top: 2rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .page__hero--overlay {
+    min-height: 300px;
+  }
+}

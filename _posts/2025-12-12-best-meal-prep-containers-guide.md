@@ -13,7 +13,10 @@ tags:
   - budget-friendly
 description: "Long discussion about container choices for meal prep. Themes include durability, BPA concerns, ease of cleaning, stacka..."
 excerpt: "Long discussion about container choices for meal prep. Themes include durability..."
+image: /assets/images/posts/containers-storage.jpg
 ---
+
+![Meal Prep Containers](/assets/images/posts/containers-storage.jpg){: .img-responsive}
 
 ## Introduction
 

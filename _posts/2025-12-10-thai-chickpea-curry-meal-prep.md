@@ -14,7 +14,10 @@ tags:
   - cost-effective
 description: "Vegetarian meal preppers are sharing and improving a Thai-inspired chickpea curry recipe. The dish is popular for its ea..."
 excerpt: "Vegetarian meal preppers are sharing and improving a Thai-inspired chickpea curr..."
+image: /assets/images/hero/colorful-veggies.jpg
 ---
+
+![Thai Chickpea Curry](/assets/images/hero/colorful-veggies.jpg){: .img-responsive}
 
 ## Introduction
 

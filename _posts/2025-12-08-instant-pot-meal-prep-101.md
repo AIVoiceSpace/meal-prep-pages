@@ -13,7 +13,10 @@ tags:
   - beginner-friendly
 description: "Community members are asking about getting started with Instant Pots for meal prep. Topics include safety concerns, lear..."
 excerpt: "Community members are asking about getting started with Instant Pots for meal pr..."
+image: /assets/images/hero/healthy-lunch-bowls.jpg
 ---
+
+![Instant Pot Meal Prep](/assets/images/hero/healthy-lunch-bowls.jpg){: .img-responsive}
 
 ## Introduction
 

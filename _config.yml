@@ -121,3 +121,7 @@ analytics:
 # Comments (to be configured)
 comments:
   provider: false
+
+# Custom CSS
+custom_css:
+  - /assets/css/custom.css
