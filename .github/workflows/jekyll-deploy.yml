@@ -46,9 +46,9 @@ jobs:
       - name: Build with Jekyll
         run: |
           if [ "${{ github.ref }}" = "refs/heads/staging" ]; then
-            bundle exec jekyll build --trace --baseurl "/stage"
+            bundle exec jekyll build --trace --future --baseurl "/stage"
           else
-            bundle exec jekyll build --trace
+            bundle exec jekyll build --trace --future
           fi
         env:
           JEKYLL_ENV: production
