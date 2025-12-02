@@ -1,17 +1,23 @@
 ---
 layout: home
-title: "Meal Prep Sunday"
-excerpt: "Automating meal prep wisdom from Reddit"
+title: "Reddit Meal Prep"
+excerpt: "Community-curated meal prep guides and recipes"
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header-bg.jpg
+  overlay_color: "#2c3e50"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/hero/meal-prep-containers.jpg
   actions:
-    - label: "Latest Posts"
+    - label: "Browse Recipes & Guides"
       url: "/blog/"
+      btn_class: "btn--primary"
+    - label: "Learn More"
+      url: "#what-we-offer"
+      btn_class: "btn--secondary"
 ---
 
-Welcome to **Meal Prep Sunday** — automated guides, recipes, and gear reviews for efficient meal preparation.
+Welcome to **Reddit Meal Prep** — high-quality guides, recipes, and gear reviews sourced from the r/MealPrepSunday community on Reddit.
 
+{: #what-we-offer}
 ## What We Offer
 
 This site automatically curates and publishes high-quality meal prep content directly from the r/MealPrepSunday community on Reddit, featuring:

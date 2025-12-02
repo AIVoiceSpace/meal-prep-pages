@@ -1,11 +1,11 @@
 # Site Settings
 locale: "en-US"
-title: "Meal Prep Sunday"
+title: "Reddit Meal Prep"
 title_separator: "|"
-subtitle: "Automating meal prep wisdom from Reddit"
-name: "Meal Prep Sunday"
-description: "High-quality meal prep guides, recipes, and gear reviews from the r/MealPrepSunday community"
-url: "https://mealprepsunday.com"
+subtitle: "Community-curated meal prep wisdom"
+name: "Reddit Meal Prep"
+description: "High-quality meal prep guides, recipes, and gear reviews sourced from the r/MealPrepSunday community"
+url: "https://mealprep.opportunityenterprises.net"
 baseurl: ""
 repository: "AIVoiceSpace/meal-prep-pages"
 
@@ -49,6 +49,7 @@ keep_files:
 
 # Production
 production: false
+future: true
 show_drafts: false
 
 # Plugins
@@ -84,6 +85,7 @@ defaults:
       share: true
       related: true
       toc: false
+      permalink: /:year/:month/:day/:slug/
   # Pages
   - scope:
       path: "_pages"
