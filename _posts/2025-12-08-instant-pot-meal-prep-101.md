@@ -2,7 +2,8 @@
 layout: single
 title: "Instant Pot Meal Prep 101: Pressure Cooking for Beginners"
 slug: instant-pot-meal-prep-101
-date: 2025-12-08
+date: 2025-12-08 08:00:00 -0700
+permalink: /2025/12/08/instant-pot-meal-prep-101/
 categories:
   - Guides
 tags:

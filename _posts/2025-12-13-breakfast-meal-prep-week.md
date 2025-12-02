@@ -2,7 +2,8 @@
 layout: single
 title: "Breakfast Prep for the Week: Egg Muffins, Oats, and Smoothie Packs"
 slug: breakfast-meal-prep-week
-date: 2025-12-13
+date: 2025-12-13 08:00:00 -0700
+permalink: /2025/12/13/breakfast-meal-prep-week/
 categories:
   - Recipes
 tags:

@@ -84,6 +84,7 @@ defaults:
       share: true
       related: true
       toc: false
+      permalink: /:year/:month/:day/:slug/
   # Pages
   - scope:
       path: "_pages"

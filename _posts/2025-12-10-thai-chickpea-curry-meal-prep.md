@@ -2,7 +2,8 @@
 layout: single
 title: "Quick Thai Chickpea Curry: Plant-Based Meal Prep Recipe"
 slug: thai-chickpea-curry-meal-prep
-date: 2025-12-10
+date: 2025-12-10 08:00:00 -0700
+permalink: /2025/12/10/thai-chickpea-curry-meal-prep/
 categories:
   - Recipes
 tags:

@@ -2,7 +2,8 @@
 layout: single
 title: "The Best Meal Prep Containers: Glass vs Plastic Breakdown"
 slug: best-meal-prep-containers-guide
-date: 2025-12-12
+date: 2025-12-12 08:00:00 -0700
+permalink: /2025/12/12/best-meal-prep-containers-guide/
 categories:
   - Gear
 tags:
