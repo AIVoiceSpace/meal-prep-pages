@@ -17,7 +17,7 @@ excerpt: "Vegetarian meal preppers are sharing and improving a Thai-inspired chi
 image: /assets/images/hero/colorful-veggies.jpg
 ---
 
-![Thai Chickpea Curry](/assets/images/hero/colorful-veggies.jpg){: .img-responsive}
+![Thai Chickpea Curry](/stage/assets/images/hero/colorful-veggies.jpg)
 
 ## Introduction
 

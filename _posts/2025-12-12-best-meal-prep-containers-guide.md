@@ -16,7 +16,7 @@ excerpt: "Long discussion about container choices for meal prep. Themes include 
 image: /assets/images/posts/containers-storage.jpg
 ---
 
-![Meal Prep Containers](/assets/images/posts/containers-storage.jpg){: .img-responsive}
+![Meal Prep Containers](/stage/assets/images/posts/containers-storage.jpg)
 
 ## Introduction
 

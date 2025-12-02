@@ -16,7 +16,7 @@ excerpt: "Community members share their favorite no-cook and minimal-cook breakf
 image: /assets/images/posts/breakfast-prep.jpg
 ---
 
-![Breakfast Meal Prep](/assets/images/posts/breakfast-prep.jpg){: .img-responsive}
+![Breakfast Meal Prep](/stage/assets/images/posts/breakfast-prep.jpg)
 
 ## Introduction
 

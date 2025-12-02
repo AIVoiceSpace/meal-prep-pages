@@ -16,7 +16,7 @@ excerpt: "Community members are asking about getting started with Instant Pots f
 image: /assets/images/hero/healthy-lunch-bowls.jpg
 ---
 
-![Instant Pot Meal Prep](/assets/images/hero/healthy-lunch-bowls.jpg){: .img-responsive}
+![Instant Pot Meal Prep](/stage/assets/images/hero/healthy-lunch-bowls.jpg)
 
 ## Introduction
 
