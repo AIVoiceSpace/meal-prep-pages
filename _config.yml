@@ -49,6 +49,7 @@ keep_files:
 
 # Production
 production: false
+future: true
 show_drafts: false
 
 # Plugins
