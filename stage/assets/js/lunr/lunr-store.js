@@ -5,9 +5,9 @@ var store = [{
         "url": "/stage/2025/12/04/vegetarian-meal-prep-weight-loss/",
         "teaser": null
       },{
-        "title": "Keto Meal Prep Low Carb",
-        "excerpt":"--- layout: single title: \"Keto Meal Prep: Your Guide to Low-Carb, Fat-Burning Recipes\" slug: keto-meal-prep-low-carb date: 2025-12-05 categories: - Recipes tags: - keto - low-carb - high-fat - macros - fat-burning description: \"A comprehensive guide to keto meal prep, featuring low-carb, high-fat recipes that are perfect for a ketogenic lifestyle.\"...","categories": [],
-        "tags": [],
+        "title": "Keto Meal Prep for a Low-Carb Lifestyle: Fat-Burning Recipes",
+        "excerpt":"Recipe Overview Embracing a ketogenic lifestyle doesn’t mean you have to give up on taste or spend hours in the kitchen every day. With our Keto Meal Prep guide, you’ll discover that preparing a week’s worth of delicious, low-carb, high-fat meals can be a breeze. This meal prep strategy is...","categories": ["Recipes"],
+        "tags": ["keto","low-carb","high-fat","macros","fat-burning"],
         "url": "/stage/2025/12/05/keto-meal-prep-low-carb/",
         "teaser": null
       },{
