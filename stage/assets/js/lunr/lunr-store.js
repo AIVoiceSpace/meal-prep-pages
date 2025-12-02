@@ -1,16 +1,4 @@
 var store = [{
-        "title": "Vegetarian Meal Prep Weight Loss",
-        "excerpt":"--- layout: single title: \"Vegetarian Meal Prep for Weight Loss: Satisfying and Calorie-Conscious Recipes\" slug: vegetarian-meal-prep-weight-loss date: 2025-12-04 categories: - Recipes tags: - vegetarian - weight-loss - low-calorie - plant-based - healthy description: \"Discover high-nutrition, low-calorie vegetarian meal prep recipes for weight loss. Enjoy satisfying dishes while achieving your health...","categories": [],
-        "tags": [],
-        "url": "/stage/2025/12/04/vegetarian-meal-prep-weight-loss/",
-        "teaser": null
-      },{
-        "title": "Keto Meal Prep for a Low-Carb Lifestyle: Fat-Burning Recipes",
-        "excerpt":"Recipe Overview Embracing a ketogenic lifestyle doesn’t mean you have to give up on taste or spend hours in the kitchen every day. With our Keto Meal Prep guide, you’ll discover that preparing a week’s worth of delicious, low-carb, high-fat meals can be a breeze. This meal prep strategy is...","categories": ["Recipes"],
-        "tags": ["keto","low-carb","high-fat","macros","fat-burning"],
-        "url": "/stage/2025/12/05/keto-meal-prep-low-carb/",
-        "teaser": null
-      },{
         "title": "Instant Pot Meal Prep 101: Pressure Cooking for Beginners",
         "excerpt":"Introduction This is a mock blog post generated for testing purposes. Community members are asking about getting started with Instant Pots for meal prep. Topics include safety concerns, learning the pressure cooking workflow, and best dishes for batch cooking. Main Content This section contains the main body of the blog...","categories": ["Guides"],
         "tags": ["instant-pot","pressure-cooking","batch-cooking","beginner-friendly"],
