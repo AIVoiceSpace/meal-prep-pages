@@ -5,6 +5,12 @@ var store = [{
         "url": "/stage/2025/12/04/vegetarian-meal-prep-weight-loss/",
         "teaser": null
       },{
+        "title": "Keto Meal Prep Low Carb",
+        "excerpt":"--- layout: single title: \"Keto Meal Prep: Your Guide to Low-Carb, Fat-Burning Recipes\" slug: keto-meal-prep-low-carb date: 2025-12-05 categories: - Recipes tags: - keto - low-carb - high-fat - macros - fat-burning description: \"A comprehensive guide to keto meal prep, featuring low-carb, high-fat recipes that are perfect for a ketogenic lifestyle.\"...","categories": [],
+        "tags": [],
+        "url": "/stage/2025/12/05/keto-meal-prep-low-carb/",
+        "teaser": null
+      },{
         "title": "Instant Pot Meal Prep 101: Pressure Cooking for Beginners",
         "excerpt":"Introduction This is a mock blog post generated for testing purposes. Community members are asking about getting started with Instant Pots for meal prep. Topics include safety concerns, learning the pressure cooking workflow, and best dishes for batch cooking. Main Content This section contains the main body of the blog...","categories": ["Guides"],
         "tags": ["instant-pot","pressure-cooking","batch-cooking","beginner-friendly"],
