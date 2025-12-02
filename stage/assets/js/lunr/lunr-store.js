@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Convenience Meal Prep: Your Ultimate Guide",
+        "excerpt":"Introduction We’ve all been there - after a long day of work, the last thing you want to do is spend hours in the kitchen cooking dinner. This is where meal prep comes into play. By preparing meals in advance, you can spend less time cooking and more time enjoying...","categories": ["Guides"],
+        "tags": ["convenience","easy","guide","meal-prep","quick"],
+        "url": "/stage/2025/12/03/convenience-guide/",
+        "teaser": null
+      },{
         "title": "Mastering Meal Prep for Different Diets: A Comprehensive Guide",
         "excerpt":"Introduction Embarking on a new diet can be challenging. But what’s even more challenging is planning, preparing, and storing meals that align with your dietary needs. Whether you’re on a ketogenic (keto) diet, a palaeolithic (paleo) diet, or any other diet, meal prep is a game-changer. In this guide, you’ll...","categories": ["Guides"],
         "tags": ["diets","guide","keto","meal-prep","paleo"],
